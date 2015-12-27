@@ -5,6 +5,7 @@ public class C
 	static void m5()
 	{
 		System.out.println("gdjfhg");
+		System.out.println("gfhfh");
 	}
 	static public void m6()
 	{
